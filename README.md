@@ -11,10 +11,10 @@
 
 <h3 align="left">Look at what I've done:</h3>
 <p align="left">
- <a href="https://stackoverflow.com/users/gogson" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml.svg" alt="gogson" /></a>
-<a href="https://stackoverflow.com/users/gogson" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml-vscode.svg" alt="gogson" /></a>
-<a href="https://stackoverflow.com/users/gogson" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/explorer-terminal-commands-vscode.svg" alt="gogson" /></a>
-<a href="https://stackoverflow.com/users/gogson" target="blank"><img align="center" src="https://gh-card.dev/repos/SylTi/bitfunding.svg" alt="gogson" /></a>
+ <a href="https://github.com/gogson/language-opa-ocaml" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml.svg" alt="gogson" /></a>
+<a href="https://github.com/gogson/language-opa-ocaml-vscode" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml-vscode.svg" alt="gogson" /></a>
+<a href="https://github.com/gogson/explorer-terminal-commands-vscode" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/explorer-terminal-commands-vscode.svg" alt="gogson" /></a>
+<a href="https://github.com/SylTi/bitfunding" target="blank"><img align="center" src="https://gh-card.dev/repos/SylTi/bitfunding.svg" alt="gogson" /></a>
 </p>
 
 
