@@ -1,5 +1,14 @@
+
 <h1 align="center">Hi 👋, I'm Hugo Lafitte</h1>
 <h3 align="center">A senior web engineer working on Cloud computing, DevOps and microservices architectures</h3>
+
+<div align="left">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/99ae9e6b23244806933640992c76543d.png?r=cgc"
+    />
+</div>
 
 - 🔭 I’m currently working on [Placeloop](https://www.placeloop.com)
 
@@ -11,10 +20,10 @@
 
 <h3 align="left">Look at what I've done:</h3>
 <p align="left">
- <a href="https://github.com/gogson/language-opa-ocaml" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml.svg" alt="gogson" /></a>
-<a href="https://github.com/gogson/language-opa-ocaml-vscode" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml-vscode.svg" alt="gogson" /></a>
-<a href="https://github.com/gogson/explorer-terminal-commands-vscode" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/explorer-terminal-commands-vscode.svg" alt="gogson" /></a>
-<a href="https://github.com/SylTi/bitfunding" target="blank"><img align="center" src="https://gh-card.dev/repos/SylTi/bitfunding.svg" alt="gogson" /></a>
+ <a href="https://github.com/gogson/language-opa-ocaml" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml.svg" alt="gogson" /></a><br/>
+<a href="https://github.com/gogson/language-opa-ocaml-vscode" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/language-opa-ocaml-vscode.svg" alt="gogson" /></a><br/>
+<a href="https://github.com/gogson/explorer-terminal-commands-vscode" target="blank"><img align="center" src="https://gh-card.dev/repos/gogson/explorer-terminal-commands-vscode.svg" alt="gogson" /></a><br/>
+<a href="https://github.com/SylTi/bitfunding" target="blank"><img align="center" src="https://gh-card.dev/repos/SylTi/bitfunding.svg" alt="gogson" /></a><br/>
 </p>
 
 
