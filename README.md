@@ -2,14 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Lafitte</h1>
 <h3 align="center">A senior web engineer working on Cloud computing, DevOps and microservices architectures</h3>
 
-<div align="left">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/99ae9e6b23244806933640992c76543d.png?r=cgc"
-    />
-</div>
-
 - 🔭 I’m currently working on [Placeloop](https://www.placeloop.com)
 
 - 🌱 I’m currently learning **Kafka**
