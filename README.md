@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hugo Lafitte</h1>
 <h3 align="center">A senior web engineer working on Cloud computing, DevOps and microservices architectures</h3>
 
-- 🔭 I’m currently working on [Placeloop](https://www.placeloop.com)
+- 🔭 I’m currently working on [Midjourney Assistant](https://github.com/gogson/MidjourneyAssistant)
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Electron**
 
 - 💬 Ask me about **devops, aws, sysadmin, microservice architecture**
 
