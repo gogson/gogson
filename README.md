@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **devops, aws, sysadmin, microservice architecture**
 
-- 📫 How to reach me **contact@lafitte.dev**
+- 📫 How to reach me **hugo@placeloop.com**
 
 <h3 align="left">Look at what I've done:</h3>
 <p align="left">
