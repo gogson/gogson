@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Midjourney Assistant](https://github.com/gogson/MidjourneyAssistant)
 
-- 🌱 I’m currently learning **Proxmox and LXC**
+- 🌱 I’m currently learning **Dart/Flutter**
 
 - 💬 Ask me about **devops, aws, sysadmin, microservice architecture**
 
