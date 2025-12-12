@@ -24,7 +24,7 @@ Product Developer at [Placeloop](https://placeloop.com) · Founder of [Griffoner
 Multiplayer drawing & guessing game with AI-powered modes.
 
 - 🖌️ **Classic** — One player draws, others guess in real-time chat. Faster guesses earn more points.
-- 🧠 **Wiki Game** — Cooperative mode where players guess hidden words from Wikipedia articles using semantic matching.
+- 🧠 **Wiki Game** — Cooperative mode where players guess hidden words from Wikipedia articles using neural semantic matching.
 - ⚔️ **Duel** — Two players draw the same word simultaneously, community votes for the best artwork.
 
 
