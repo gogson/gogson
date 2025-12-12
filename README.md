@@ -34,7 +34,7 @@ Multiplayer drawing & guessing game with AI-powered modes.
 
 - 🧑‍💻 **Languages**: JavaScript/TypeScript, Python
 - 🖥️ **Frontend**: React / Svelte / Angular (the right fit for the constraints)
-- 🧠 **Backend**: Node.js, Django, Flask
+- 🧠 **Backend**: Node.js, Express, Nest.js, Django, Flask
 - 🤖 **LLM building blocks**: chat/agent features, embeddings + semantic search, and automation workflows
 - 🗄️ **Data stores**: Postgres, MongoDB, MySQL, Elasticsearch
 - 📦 **Delivery**: Docker, CI/CD pipelines
