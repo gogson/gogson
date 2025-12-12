@@ -36,8 +36,8 @@ Multiplayer drawing & guessing game with AI-powered modes.
 - 🖥️ **Frontend**: Angular/React/Svelte/Native (the right fit for the constraints)
 - 🧠 **Backend**: Node, Express, Nest, Django, Flask
 - 🤖 **LLM building blocks**: chat/agent features, embeddings + semantic search, and automation workflows
-- 🗄️ **Data stores**: Postgres, MongoDB, MySQL, Elasticsearch
+- 🗄️ **Data stores**: Postgres, MongoDB, MySQL, Elasticsearch, Kafka
 - 📦 **Delivery**: Docker, CI/CD pipelines
-- 🏠 **Hybrid hosting**: Proxmox + cloud services when it makes sense
+- 🏠 **Hybrid hosting**: Dedicated infrastructure + Proxmox + AWS and other cloud services when it makes sense
 - 🎨 **Prototyping**: Figma
 - 🤖 **AI Tools**: Copilot, Claude, ChatGPT, Ideogram, Midjourney, UXPilot
