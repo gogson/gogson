@@ -2,7 +2,7 @@
 
 #### Product-oriented engineer · +15 years · Web, Cloud & DevOps<br>Thrive as a founding engineer / first hire — turning ideas into shipped products.
 
-Product Developer at [Placeloop](https://placeloop.com) · Founder of [Griffoner](https://griffoner.com)
+Product Engineer at [Placeloop](https://placeloop.com) · Founder of [Griffoner](https://griffoner.com)
 
 
 ---
