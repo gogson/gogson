@@ -10,7 +10,7 @@ Product Developer at [Placeloop](https://placeloop.com) · Founder of [Griffoner
 ### 🚀 What I deliver
 
 - 🎯 **From problem → prototype → product**: fast iterations with clear scope, trade-offs, and execution.
-- 🎨 **Prototyping & UX**: Figma flows, clickable prototypes, UI specs, and pragmatic design-to-dev handoff.
+- 🎨 **Prototyping**: Figma flows, clickable prototypes, UI specs, and pragmatic design-to-dev handoff.
 - 🧱 **Full‑stack delivery**: build features end-to-end (JavaScript/TypeScript + Python), from UI to APIs.
 - 🤖 **LLM integrations that ship**: turn model capabilities into real product features (UX, reliability, cost, and safety).
 - 📊 **Data & search**: turn raw data into usable features (modeling, pipelines, indexing, analytics).
