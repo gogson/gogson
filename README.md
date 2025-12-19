@@ -1,7 +1,7 @@
 ### Hi, I'm Hugo Lafitte 👋
 
 #### Product-oriented engineer · 15+ years · Web, Cloud & DevOps
-Founding engineer / first hire profile — I turn ambiguous problems into shipped, maintainable products.
+Founding engineer / first hire profile — I turn unclear product and technical problems into shipped, maintainable products.
 
 Product Engineer at [Placeloop](https://placeloop.com) · Founder of [Griffoner](https://griffoner.com)
 
