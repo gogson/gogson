@@ -19,7 +19,7 @@ Product Engineer at [Placeloop](https://placeloop.com) · Founder of [Griffoner]
 
 ---
 
-### 🎨 Curren project: Griffoner — [Play Now](https://griffoner.com)
+### 🎨 Current project: Griffoner — [Play Now](https://griffoner.com)
 
 Multiplayer drawing & guessing game with AI-powered modes.
 
