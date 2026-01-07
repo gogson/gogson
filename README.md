@@ -1,15 +1,11 @@
-### Hi, I'm Hugo Lafitte 👋
+### Hi, I'm Hugo 👋
 
 #### Product-oriented engineer · 15+ years · Web, Cloud & DevOps
-Founding engineer — I turn unclear product and technical problems into shipped, maintainable products.
-
-Product Engineer at [Placeloop](https://placeloop.com) · Founder of [Griffoner](https://griffoner.com)
-Open to work · Remote Only
-
+Product Engineer at [Placeloop](https://placeloop.com) · Open to work · Remote Only
 
 ---
 
-### 🚀 What I do best
+### 🚀 Areas of expertise
 
 - 🎯 **From problem → prototype → product**: fast iterations with clear scope, trade-offs, and execution.
 - 🎨 **Prototyping**: Figma flows, clickable prototypes, UI specs, and pragmatic design-to-dev handoff.
